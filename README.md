@@ -1,5 +1,3 @@
-<a id="top"></a>
-
 # 📊 คู่มือติดตั้ง Tableau Desktop Free Edition
 
 > ดาวน์โหลด ติดตั้ง สร้าง Tableau Account ด้วยอีเมล และ Activate เป็น **Free Edition** ใช้งานได้ฟรีบนเครื่องตัวเอง
@@ -11,23 +9,21 @@
 
 ---
 
-<a id="toc"></a>
-
 ## 🧭 สารบัญ
 
 | ขั้นตอน | หัวข้อ |
 |:---:|---|
-| 0️⃣ | [สิ่งที่ต้องเตรียม](#step-0) |
-| 1️⃣ | [ดาวน์โหลดตัวติดตั้ง](#step-1) |
-| 2️⃣ | [ติดตั้ง Tableau Desktop](#step-2) |
-| 3️⃣ | [ลงทะเบียนผู้ใช้ (Registration)](#step-3) |
-| 4️⃣ | [เลือก Use Tableau for free](#step-4) |
-| 5️⃣ | [สร้าง Tableau Account ด้วยอีเมล](#step-5) |
-| 6️⃣ | [ยืนยันอีเมล](#step-6) |
-| 7️⃣ | [Sign In และ Activate สำเร็จ](#step-7) |
-| ✅ | [ตรวจสอบว่าเป็น Free Edition](#verify) |
-| 📋 | [Free vs Public vs Professional](#compare) |
-| 🛠️ | [แก้ปัญหาที่พบบ่อย](#troubleshooting) |
+| 0️⃣ | [สิ่งที่ต้องเตรียม](#0️⃣-สิ่งที่ต้องเตรียม) |
+| 1️⃣ | [ดาวน์โหลดตัวติดตั้ง](#1️⃣-ดาวน์โหลดตัวติดตั้ง) |
+| 2️⃣ | [ติดตั้ง Tableau Desktop](#2️⃣-ติดตั้ง-tableau-desktop) |
+| 3️⃣ | [ลงทะเบียนผู้ใช้ (Registration)](#3️⃣-ลงทะเบียนผู้ใช้-registration) |
+| 4️⃣ | [เลือก Use Tableau for free](#4️⃣-เลือก-use-tableau-for-free) |
+| 5️⃣ | [สร้าง Tableau Account ด้วยอีเมล](#5️⃣-สร้าง-tableau-account-ด้วยอีเมล) |
+| 6️⃣ | [ยืนยันอีเมล](#6️⃣-ยืนยันอีเมล) |
+| 7️⃣ | [Sign In และ Activate สำเร็จ](#7️⃣-sign-in-และ-activate-สำเร็จ) |
+| ✅ | [ตรวจสอบว่าเป็น Free Edition](#-ตรวจสอบว่าเป็น-free-edition) |
+| 📋 | [Free vs Public vs Professional](#-free-vs-public-vs-professional) |
+| 🛠️ | [แก้ปัญหาที่พบบ่อย](#️-แก้ปัญหาที่พบบ่อย) |
 
 ---
 
@@ -46,8 +42,6 @@ flowchart LR
 
 ---
 
-<a id="step-0"></a>
-
 ## 0️⃣ สิ่งที่ต้องเตรียม
 
 | รายการ | รายละเอียด |
@@ -58,8 +52,6 @@ flowchart LR
 | 🌐 อินเทอร์เน็ต | ใช้ทั้งตอนดาวน์โหลดและตอน Activate |
 
 ---
-
-<a id="step-1"></a>
 
 ## 1️⃣ ดาวน์โหลดตัวติดตั้ง
 
@@ -73,8 +65,6 @@ flowchart LR
 
 ---
 
-<a id="step-2"></a>
-
 ## 2️⃣ ติดตั้ง Tableau Desktop
 
 1. ดับเบิลคลิกไฟล์ติดตั้งที่ดาวน์โหลดมา
@@ -82,24 +72,22 @@ flowchart LR
 3. *(ไม่บังคับ)* ติ๊ก ☑️ **Don't send product usage data** ถ้าไม่ต้องการส่งข้อมูลการใช้งานให้ Tableau
 4. กด **Install** *(หรือ **Customize** ถ้าต้องการเปลี่ยนโฟลเดอร์ติดตั้ง)*
 
-<p align="center"><img src="images/01-installer-welcome.png" width="520" alt="หน้า Welcome ของตัวติดตั้ง"></p>
+![หน้า Welcome ของตัวติดตั้ง](images/01-installer-welcome.png)
 
 5. รอจนติดตั้งเสร็จ (ประมาณ 3–5 นาที)
 
-<p align="center"><img src="images/02-installing.png" width="520" alt="กำลังติดตั้ง"></p>
+![กำลังติดตั้ง](images/02-installing.png)
 
 > [!IMPORTANT]
 > ถ้า Windows ถาม **User Account Control (UAC)** ให้กด **Yes** เพื่ออนุญาตการติดตั้ง
 
 ---
 
-<a id="step-3"></a>
-
 ## 3️⃣ ลงทะเบียนผู้ใช้ (Registration)
 
 เมื่อติดตั้งเสร็จ Tableau Desktop จะเปิดขึ้นมาเอง (หรือเปิดจาก Start Menu)
 
-<p align="center"><img src="images/03-splash.png" width="460" alt="Splash screen ของ Tableau Desktop"></p>
+![Splash screen ของ Tableau Desktop](images/03-splash.png)
 
 > [!NOTE]
 > หน้า Splash จะแสดงคำว่า **Professional Edition** ตามปกติ ไม่ต้องตกใจ เพราะยังไม่ได้เลือกประเภท License
@@ -117,15 +105,13 @@ flowchart LR
 
 แล้วกด **Register**
 
-<p align="center"><img src="images/04-registration.png" width="560" alt="หน้า Registration"></p>
+![หน้า Registration](images/04-registration.png)
 
 เมื่อขึ้น ✅ **Registration completed.** ให้กด **Continue**
 
-<p align="center"><img src="images/05-registration-completed.png" width="560" alt="Registration completed"></p>
+![Registration completed](images/05-registration-completed.png)
 
 ---
-
-<a id="step-4"></a>
 
 ## 4️⃣ เลือก Use Tableau for free
 
@@ -137,20 +123,18 @@ flowchart LR
 | 🔑 Activate with product key | มี Product Key ที่ซื้อ License แล้ว |
 | ☁️ Activate by signing in to a server | องค์กรใช้ Tableau Server / Tableau Cloud แบบ Login-based License |
 
-<p align="center"><img src="images/06-activate-options.png" width="560" alt="หน้าเลือกวิธี Activate"></p>
+![หน้าเลือกวิธี Activate](images/06-activate-options.png)
 
 ---
-
-<a id="step-5"></a>
 
 ## 5️⃣ สร้าง Tableau Account ด้วยอีเมล
 
 หน้า **Sign In** จะขึ้นมา
 
-- ถ้า **มี Tableau Account อยู่แล้ว** → กรอก Email + Password แล้วกด **SIGN IN** ข้ามไป [ขั้นตอนที่ 7](#step-7) ได้เลย
+- ถ้า **มี Tableau Account อยู่แล้ว** → กรอก Email + Password แล้วกด **SIGN IN** ข้ามไป [ขั้นตอนที่ 7](#7️⃣-sign-in-และ-activate-สำเร็จ) ได้เลย
 - ถ้า **ยังไม่มี** → กด **CREATE AN ACCOUNT**
 
-<p align="center"><img src="images/07-sign-in.png" width="480" alt="หน้า Sign In"></p>
+![หน้า Sign In](images/07-sign-in.png)
 
 กรอกข้อมูลในหน้า **Create your Tableau Account**
 
@@ -162,7 +146,7 @@ flowchart LR
 
 แล้วกด **CREATE MY ACCOUNT**
 
-<p align="center"><img src="images/08-create-account.png" width="480" alt="หน้า Create your Tableau Account"></p>
+![หน้า Create your Tableau Account](images/08-create-account.png)
 
 > [!WARNING]
 > **เงื่อนไขรหัสผ่าน** (ถ้าไม่ครบจะสร้างบัญชีไม่ได้)
@@ -177,15 +161,13 @@ flowchart LR
 >
 > ตัวอย่างรหัสที่ผ่าน: `Tableau@2026`
 
-<p align="center"><img src="images/09-password-rules.png" width="360" alt="เงื่อนไขรหัสผ่าน"></p>
+![เงื่อนไขรหัสผ่าน](images/09-password-rules.png)
 
 เมื่อสร้างสำเร็จ จะขึ้นข้อความว่าระบบส่งอีเมลยืนยันไปแล้ว
 
-<p align="center"><img src="images/10-check-email.png" width="480" alt="Thank you for registering"></p>
+![Thank you for registering](images/10-check-email.png)
 
 ---
-
-<a id="step-6"></a>
 
 ## 6️⃣ ยืนยันอีเมล
 
@@ -193,7 +175,7 @@ flowchart LR
 2. หาอีเมลหัวข้อ **Tableau Software Account Activation** จาก `reghelp@tableau.com`
 3. คลิกลิงก์ในอีเมลเพื่อยืนยันบัญชี
 
-<p align="center"><img src="images/11-activation-email.png" width="540" alt="อีเมล Tableau Software Account Activation"></p>
+![อีเมล Tableau Software Account Activation](images/11-activation-email.png)
 
 > [!CAUTION]
 > ลิงก์ในอีเมล **หมดอายุภายใน 48 ชั่วโมง** ถ้าหมดอายุแล้ว ขอลิงก์ใหม่ได้ที่ [id.tableau.com/resetPassword](https://id.tableau.com/resetPassword)
@@ -206,23 +188,19 @@ flowchart LR
 
 ---
 
-<a id="step-7"></a>
-
 ## 7️⃣ Sign In และ Activate สำเร็จ
 
 1. กลับมาที่ Tableau Desktop หน้า **Sign In**
 2. กรอก **Email** และ **Password** ที่เพิ่งสร้าง แล้วกด **SIGN IN**
 3. เมื่อขึ้น ✅ *Thank you for using Tableau Desktop...* ให้กด **Continue**
 
-<p align="center"><img src="images/12-activated.png" width="560" alt="Activate สำเร็จ"></p>
+![Activate สำเร็จ](images/12-activated.png)
 
 🎉 เข้าสู่หน้า Start Page ของ Tableau Desktop พร้อมใช้งาน
 
-<p align="center"><img src="images/13-start-page.png" width="800" alt="Start Page ของ Tableau Desktop Free Edition"></p>
+![Start Page ของ Tableau Desktop Free Edition](images/13-start-page.png)
 
 ---
-
-<a id="verify"></a>
 
 ## ✅ ตรวจสอบว่าเป็น Free Edition
 
@@ -232,14 +210,12 @@ flowchart LR
 | **Search for Data** เป็นสีเทา พร้อมข้อความ *"Upgrade to connect to Tableau Server"* | แถบ Connect ด้านซ้าย |
 | เมนู **Help ▸ Manage Product Keys...** | ใช้ดูสถานะ License หรือใส่ Product Key เมื่ออัปเกรด |
 
-<p align="center"><img src="images/14-help-manage-product-keys.png" width="800" alt="เมนู Help > Manage Product Keys"></p>
+![เมนู Help > Manage Product Keys](images/14-help-manage-product-keys.png)
 
 > [!TIP]
 > ถ้าภายหลังได้ License แบบเสียเงิน ไม่ต้องติดตั้งใหม่ กด **Activate Tableau** ที่แบนเนอร์ด้านบน หรือไปที่ **Help ▸ Manage Product Keys...** แล้วใส่ Product Key ได้เลย
 
 ---
-
-<a id="compare"></a>
 
 ## 📋 Free vs Public vs Professional
 
@@ -259,8 +235,6 @@ flowchart LR
 > อ้างอิง: [Tableau Desktop Public, Free and Professional Edition Feature Comparison](https://help.tableau.com/current/pro/desktop/en-us/desktop_comparison.htm)
 
 ---
-
-<a id="troubleshooting"></a>
 
 ## 🛠️ แก้ปัญหาที่พบบ่อย
 
@@ -284,8 +258,6 @@ flowchart LR
 
 ---
 
-<p align="center">
-  <a href="#top">⬆️ กลับไปด้านบน</a>
-</p>
+[⬆️ กลับไปด้านบน](#-คู่มือติดตั้ง-tableau-desktop-free-edition)
 
-<p align="center"><b>Created by The Narit Lab</b></p>
+**Created by The Narit Lab**
