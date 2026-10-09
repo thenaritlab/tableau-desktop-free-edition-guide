@@ -7,6 +7,13 @@
 ![License](https://img.shields.io/badge/License-Free%20Edition-2E7D32)
 ![Time](https://img.shields.io/badge/%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-~15%20%E0%B8%99%E0%B8%B2%E0%B8%97%E0%B8%B5-6A1B9A)
 
+> [!NOTE]
+> **⚖️ ข้อจำกัดความรับผิดชอบ (Disclaimer)**
+>
+> เอกสารนี้จัดทำขึ้นจากการรวบรวมข้อมูลโดยส่วนตัวของผู้เขียน เพื่อวัตถุประสงค์ในการแบ่งปันความรู้เท่านั้น มิใช่เอกสารทางการของเจ้าของผลิตภัณฑ์ และไม่สามารถใช้เป็นเอกสารอ้างอิงทางการค้าได้ หากต้องการนำข้อมูลไปใช้อ้างอิง กรุณาตรวจสอบข้อมูลล่าสุดจากเว็บไซต์ทางการของเจ้าของผลิตภัณฑ์อีกครั้ง
+>
+> *This document is a personal compilation intended for knowledge-sharing purposes only. It is not official documentation from the product owner and shall not be used as a commercial reference. Please verify all information against the product owner's official website before use.*
+
 ---
 
 ## 🧭 สารบัญ
@@ -259,5 +266,12 @@ flowchart LR
 ---
 
 [⬆️ กลับไปด้านบน](#-คู่มือติดตั้ง-tableau-desktop-free-edition)
+
+> [!NOTE]
+> **⚖️ ข้อจำกัดความรับผิดชอบ (Disclaimer)**
+>
+> เอกสารนี้จัดทำขึ้นจากการรวบรวมข้อมูลโดยส่วนตัวของผู้เขียน เพื่อวัตถุประสงค์ในการแบ่งปันความรู้เท่านั้น มิใช่เอกสารทางการของเจ้าของผลิตภัณฑ์ และไม่สามารถใช้เป็นเอกสารอ้างอิงทางการค้าได้ หากต้องการนำข้อมูลไปใช้อ้างอิง กรุณาตรวจสอบข้อมูลล่าสุดจากเว็บไซต์ทางการของเจ้าของผลิตภัณฑ์อีกครั้ง
+>
+> *This document is a personal compilation intended for knowledge-sharing purposes only. It is not official documentation from the product owner and shall not be used as a commercial reference. Please verify all information against the product owner's official website before use.*
 
 **Created by The Narit Lab**
